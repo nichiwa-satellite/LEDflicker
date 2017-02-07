@@ -45,3 +45,14 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# psoc created files
+ARM_GCC_493
+codegentemp
+Generated_Source
+*.localadmin
+*.cycdx
+*.svd
+LEDflicker.cydsn/LEDflicker.rpt
+LEDflicker.cydsn/LEDflicker_timing.html
+*.cyfit
