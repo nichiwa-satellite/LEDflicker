@@ -1,6 +1,0 @@
-C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|6b66f8a5-9cb6-4f28-b905-b751ff4af79c
-C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\default\CyReferenceLibrary\CyReferenceLibrary.cylib\CyReferenceLibrary.cyprj|614fcff3-2da5-48ae-976a-59d8296bbd18
-C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|db17868a-43fd-495d-b5fc-f6256d857fc1
-C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|368f2ccf-c93b-4bfc-b893-9ea19c169d4b
-C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|320db96d-2678-45a2-aa96-4a0435fe1cca
-C:\Users\localadmin\Documents\GitHub\LEDflicker\LEDflicker.cydsn\LEDflicker.cyprj|04508fe6-497c-4a7e-acb5-50930de85363

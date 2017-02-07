@@ -113,34 +113,6 @@
 <v>LEDflicker\LEDflicker\Header Files\cyapicallbacks.h</v>
 <v>LEDflicker\LEDflicker\Source Files</v>
 <v>LEDflicker\LEDflicker\Source Files\main.c</v>
-<v>LEDflicker\LEDflicker\Generated_Source</v>
-<v>LEDflicker\LEDflicker\Generated_Source\PSoC5</v>
-<v>LEDflicker\LEDflicker\Generated_Source\PSoC5\Clock_1</v>
-<v>LEDflicker\LEDflicker\Generated_Source\PSoC5\Clock_1\Clock_1.c</v>
-<v>LEDflicker\LEDflicker\Generated_Source\PSoC5\Clock_1\Clock_1.h</v>
-<v>LEDflicker\LEDflicker\Generated_Source\PSoC5\cy_boot</v>
-<v>LEDflicker\LEDflicker\Generated_Source\PSoC5\cy_boot\cm3gcc.ld</v>
-<v>LEDflicker\LEDflicker\Generated_Source\PSoC5\cy_boot\Cm3Iar.icf</v>
-<v>LEDflicker\LEDflicker\Generated_Source\PSoC5\cy_boot\Cm3RealView.scat</v>
-<v>LEDflicker\LEDflicker\Generated_Source\PSoC5\cy_boot\Cm3Start.c</v>
-<v>LEDflicker\LEDflicker\Generated_Source\PSoC5\cy_boot\cmsis_armcc.h</v>
-<v>LEDflicker\LEDflicker\Generated_Source\PSoC5\cy_boot\cmsis_gcc.h</v>
-<v>LEDflicker\LEDflicker\Generated_Source\PSoC5\cy_boot\core_cm3.h</v>
-<v>LEDflicker\LEDflicker\Generated_Source\PSoC5\cy_boot\core_cm3_psoc5.h</v>
-<v>LEDflicker\LEDflicker\Generated_Source\PSoC5\cy_boot\core_cmFunc.h</v>
-<v>LEDflicker\LEDflicker\Generated_Source\PSoC5\cy_boot\core_cmInstr.h</v>
-<v>LEDflicker\LEDflicker\Generated_Source\PSoC5\cy_boot\CyBootAsmGnu.s</v>
-<v>LEDflicker\LEDflicker\Generated_Source\PSoC5\cy_boot\CyBootAsmIar.s</v>
-<v>LEDflicker\LEDflicker\Generated_Source\PSoC5\cy_boot\CyBootAsmRv.s</v>
-<v>LEDflicker\LEDflicker\Generated_Source\PSoC5\cy_boot\CyDmac.c</v>
-<v>LEDflicker\LEDflicker\Generated_Source\PSoC5\cy_boot\CyDmac.h</v>
-<v>LEDflicker\LEDflicker\Generated_Source\PSoC5\cy_boot\CyFlash.c</v>
-<v>LEDflicker\LEDflicker\Generated_Source\PSoC5\cy_boot\CyFlash.h</v>
-<v>LEDflicker\LEDflicker\Generated_Source\PSoC5\cy_boot\CyLib.c</v>
-<v>LEDflicker\LEDflicker\Generated_Source\PSoC5\cy_boot\CyLib.h</v>
-<v>LEDflicker\LEDflicker\Generated_Source\PSoC5\cy_boot\cypins.h</v>
-<v>LEDflicker\LEDflicker\Generated_Source\PSoC5\cy_boot\cyPm.c</v>
-<v>LEDflicker\LEDflicker\Generated_Source\PSoC5\cy_boot\cyPm.h</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 <CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
@@ -190,8 +162,22 @@
 <VisibleNodeIds>
 <v>LEDflicker</v>
 <v>LEDflicker\LEDflicker</v>
-<v>LEDflicker\LEDflicker\LEDflicker.rpt</v>
-<v>LEDflicker\LEDflicker\LEDflicker_timing.html</v>
+<v>LEDflicker\LEDflicker\CortexM3</v>
+<v>LEDflicker\LEDflicker\CortexM3\ARM_GCC_493</v>
+<v>LEDflicker\LEDflicker\CortexM3\ARM_GCC_493\Debug</v>
+<v>LEDflicker\LEDflicker\CortexM3\ARM_GCC_493\Debug\Listing Files</v>
+<v>LEDflicker\LEDflicker\CortexM3\ARM_GCC_493\Debug\Listing Files\Clock_1.lst</v>
+<v>LEDflicker\LEDflicker\CortexM3\ARM_GCC_493\Debug\Listing Files\Cm3Start.lst</v>
+<v>LEDflicker\LEDflicker\CortexM3\ARM_GCC_493\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>LEDflicker\LEDflicker\CortexM3\ARM_GCC_493\Debug\Listing Files\CyDmac.lst</v>
+<v>LEDflicker\LEDflicker\CortexM3\ARM_GCC_493\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>LEDflicker\LEDflicker\CortexM3\ARM_GCC_493\Debug\Listing Files\CyFlash.lst</v>
+<v>LEDflicker\LEDflicker\CortexM3\ARM_GCC_493\Debug\Listing Files\CyLib.lst</v>
+<v>LEDflicker\LEDflicker\CortexM3\ARM_GCC_493\Debug\Listing Files\cymetadata.lst</v>
+<v>LEDflicker\LEDflicker\CortexM3\ARM_GCC_493\Debug\Listing Files\cyPm.lst</v>
+<v>LEDflicker\LEDflicker\CortexM3\ARM_GCC_493\Debug\Listing Files\CySpc.lst</v>
+<v>LEDflicker\LEDflicker\CortexM3\ARM_GCC_493\Debug\Listing Files\cyutils.lst</v>
+<v>LEDflicker\LEDflicker\CortexM3\ARM_GCC_493\Debug\Listing Files\isr_Timer.lst</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 </TreeStates>
@@ -237,7 +223,18 @@
 </userData>
 </CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
 <Unloaded />
-<OpenDocs />
+<OpenDocs>
+<name v=".\LEDflicker.cydsn\TopDesign\TopDesign.cysch" />
+<name v=".\LEDflicker.cydsn\LEDflicker.cydwr" />
+<name v=".\LEDflicker.cydsn\main.c" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="973, 684" SelectedTabbedMdiWindow="10a39247-4275-4611-87d8-ea1d4a00cada"><DocumentWindow Key="60dc3796-6fad-4ea5-ba37-713261e84d5f" Guid="b189c9f9-c9dc-4998-9a7d-e3f3251371c1" /><DocumentWindow Key="bbe6bde3-b205-4bb4-a79f-8d3cdd4ec9ae" Guid="10a39247-4275-4611-87d8-ea1d4a00cada" /><DocumentWindow Key="01011fd3-24e1-43dd-a050-16d2d5add2a3" Guid="ba1f70da-18a3-45a4-b5f9-ddf0d9206fc9" /><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="ca360092-fafd-4d70-964d-0a2433d8a8d3" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
 <config v="" />
 <AutoUpdate v="true" />
 </CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
